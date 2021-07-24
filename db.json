@@ -1,0 +1,35 @@
+{
+  "data": [
+      {
+        "id": 123123,
+        "nombre": "Cox",
+        "apellido": "asdf",
+        "direccion": "Cra 1000",
+        "telefono": "12123123"
+      },
+      {
+      
+        "id": 122222,
+        "nombre": "Coxaaaaaaaa",
+        "apellido": "asdfaaaaaa",
+        "direccion": "Cra 1000aaaaaaaaa",
+        "telefono": "12123123aaaaaaa"
+      },
+      {
+      
+        "id": 33333,
+        "nombre": "Coxadfa",
+        "apellido": "asdffffff",
+        "direccion": "Cra 1000fffffff",
+        "telefono": "12123123ffffff"
+      },
+      {
+      
+        "id": 44444,
+        "nombre": "Coxjjjjjjj",
+        "apellido": "asdfjjjjjjj",
+        "direccion": "Cra 1000jjjjjjjjj",
+        "telefono": "12123123jjjjjjjjjj"
+      }
+  ]
+}
